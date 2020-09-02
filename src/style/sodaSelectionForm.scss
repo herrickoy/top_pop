@@ -1,0 +1,18 @@
+.regular-diet-wrapper {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.regular-diet {
+    height: 25px;
+    width:100px;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: rgb(210, 210, 210);
+
+}
+
+.selected{
+    background-color: grey;
+}
