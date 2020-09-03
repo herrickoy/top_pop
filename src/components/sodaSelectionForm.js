@@ -7,6 +7,14 @@ import _ from 'lodash';
 
 // function DrinkType(props) {
 //     return (
+//         <Col md = "6" className="drink-type-wrapper">
+//             <Row>
+//                 <Col md="6">
+//                     <input type="button" placeholder={props.placeholder} onClick={props.onClick} />
+//                 </Col>
+//             </Row>
+
+//         </Col>
 
 //     )
 // }
