@@ -9,10 +9,22 @@
     width:100px;
     border-radius: 5px;
     border-color: transparent;
-    background-color: rgb(210, 210, 210);
+    background-color: rgb(224, 207, 207);
 
 }
 
 .selected{
     background-color: grey;
+}
+
+.drink-type-button {
+    padding: 20px;
+    margin: 10px;
+    width: 100px;
+    height: 95px;
+    border-radius: 8px;background-color: rgb(225, 59, 59);
+}
+
+.card {
+    background-color: rgb(224, 207, 207);
 }
